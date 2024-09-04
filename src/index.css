@@ -1,0 +1,15 @@
+.bi-heart{
+cursor: pointer;
+font-size: large !important;
+font-weight: bold !important;
+}
+
+.card-text{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.bi-heart-fill{
+    color: red;
+    cursor: pointer;
+}
